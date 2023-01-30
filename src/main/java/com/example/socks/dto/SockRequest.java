@@ -1,7 +1,8 @@
-package pro.sky.storageapp.dto;
+package com.example.socks.dto;
 
-import pro.sky.storageapp.Model.Color;
-import pro.sky.storageapp.Model.Size;
+
+import com.example.socks.Model.Color;
+import com.example.socks.Model.Size;
 
 public class SockRequest {
     private Color color;
